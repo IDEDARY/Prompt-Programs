@@ -1,0 +1,4 @@
+Text based fantasy adventure game where LLM creates a scenario
+and the player decides on what to do.
+Reccomended LLM: ChatGPT
+Created by Dominik Kaspar
